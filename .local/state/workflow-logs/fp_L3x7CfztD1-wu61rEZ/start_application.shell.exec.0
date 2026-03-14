@@ -1,0 +1,95 @@
+
+> rest-express@1.0.0 dev
+> NODE_ENV=development tsx server/index.ts
+
+[1G[0K5:31:43 PM [express] serving on port 5000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m5:31:46 PM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [33mwarning: [33mDuplicate "style" attribute in JSX element[33m
+66 |        transition={{ duration: 9, repeat: Infinity, ease: "easeInOut" }}
+67 |        className="absolute -top-20 -right-20 w-[600px] h-[600px] rounded-full pointer-events-none"
+68 |        style={{
+   |        ^
+69 |          background: "radial-gradient(circle, hsl(262 83% 62% / 0.18) 0%, transparent 70%)",
+70 |          y: bgY
+[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36m/home/runner/workspace/client/src/components/sections/Hero.tsx[39m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m5:31:46 PM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [33mwarning: [33mDuplicate "style" attribute in JSX element[33m
+77 |        transition={{ duration: 12, repeat: Infinity, ease: "easeInOut", delay: 2 }}
+78 |        className="absolute bottom-0 -left-32 w-[700px] h-[700px] rounded-full pointer-events-none"
+79 |        style={{
+   |        ^
+80 |          background: "radial-gradient(circle, hsl(200 100% 60% / 0.12) 0%, transparent 70%)",
+81 |          y: bgY
+[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36m/home/runner/workspace/client/src/components/sections/Hero.tsx[39m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m5:32:11 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/sections/Hero.tsx, /src/index.css[22m
