@@ -71,7 +71,7 @@ export const projects = [
     description: "Social fitness app with workout sharing, group session scheduling via video conferencing, and nutrition tracking APIs.",
     tech: ["Flutter", "Firebase", "ZegoCloud", "Nutrition APIs"],
     icon: Smartphone,
-    image: "/images/fitness2", // fix this extension
+    image: "/images/fitness2.jpg", 
     github: "https://github.com/BasitShafiq/Fit-Social",
   },
   {
@@ -122,7 +122,7 @@ export const projects = [
     description: "Management system for hostel dining with attendance tracking, meal reservations, and Stripe payment integration.",
     tech: ["Python", "Flask", "MongoDB", "Bootstrap", "Stripe"],
     icon: Layout,
-    image: "/images/hostel_menu",
+    image: "/images/hostel_menu.jpg",
     github: "https://github.com/BasitShafiq/Hostel_Mess",
   },
 ];
