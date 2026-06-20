@@ -4,9 +4,9 @@ import { personalInfo } from "@/lib/data";
 import { Moon, Sun, Menu, X } from "lucide-react";
 
 const navLinks = [
+  { name: "About", href: "#about" },
   { name: "Experience", href: "#experience" },
   { name: "Projects", href: "#projects" },
-  { name: "Education", href: "#education" },
   { name: "Skills", href: "#skills" },
   { name: "Contact", href: "#contact" },
 ];
